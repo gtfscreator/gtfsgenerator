@@ -1,2 +1,2 @@
 # gtfsgenerator
-Python Procedure that make gtfs feed from ecel standard file
+Python procedure to produce a gtfs from excel standard files
