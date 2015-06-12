@@ -1,4 +1,4 @@
-stop_name;stop_lat;stop_lon
-Milano;42.78;12.6
-Roma;41.9;12.41
-Firenze;43.7874;11.2499
+stop_name,stop_lat,stop_lon
+Milano,42.78,12.6
+Roma,41.9,12.41
+Firenze,43.7874,11.2499

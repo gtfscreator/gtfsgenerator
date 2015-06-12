@@ -1,0 +1,4 @@
+"stop_id","stop_name","stop_desc","stop_lat","stop_lon","stop_url","location_type","parent_station"
+"0","Milano","","42.78","12.6","","",""
+"1","Roma","","41.9","12.41","","",""
+"2","Firenze","","43.7874","11.2499","","",""
